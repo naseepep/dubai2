@@ -21,7 +21,7 @@ dependencies:
   font_awesome_flutter: ^10.3.0
   dependencies:
   firebase_core: ^2.4.1
-  firebase_auth: ^4.2.5
+  firebase_auth: ^4.2.7
   cloud_firestore: ^4.3.1
 
 
